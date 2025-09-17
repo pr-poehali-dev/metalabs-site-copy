@@ -61,6 +61,13 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				'metalabs': {
+					'dark': '#1a1f2c',
+					'gray': '#2d2d2d',
+					'cyan': '#00d4ff',
+					'blue': '#0ea5e9',
+					'purple': '#8b5cf6',
 				}
 			},
 			borderRadius: {
